@@ -1,0 +1,3 @@
+[submodule "notebooks/da-ads-tutorial"]
+	path = notebooks/da-ads-tutorial
+	url = https://github.com/juanschezmor/da-ads-tutorial.git
